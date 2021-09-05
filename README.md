@@ -3,7 +3,9 @@
 
 # the keyword of the project
 - vue3.0
-- quasar-v2
+- vite
+- typescript
+- tailwind
 
 
 ## about the backend
