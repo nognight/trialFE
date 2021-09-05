@@ -59,7 +59,7 @@ jobs:
 
       ## Test
       - name: Start Vite devserver
-        run: npm run preview
+        run: npm run build
 
       # - name: Run tests
       #   run: npm run test:ci
