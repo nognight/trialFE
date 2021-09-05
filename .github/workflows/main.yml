@@ -55,18 +55,18 @@ jobs:
         if: |
           steps.cache-yarn-cache.outputs.cache-hit != 'true' ||
           steps.cache-node-modules.outputs.cache-hit != 'true'
-        run: yarn --frozen-lockfile
+        run: npm install
 
       ## Test
       - name: Start Vite devserver
-        run: yarn start
+        run: npm run preview
 
-      - name: Run tests
-        run: yarn test:ci
+      # - name: Run tests
+      #   run: npm run test:ci
 
-      - name: Upload artifacts on fail
-        uses: actions/upload-artifact@v2
-        if: failure()
-        with:
-          name: videos
-          path: tests/e2e/videos/
+      # - name: Upload artifacts on fail
+      #   uses: actions/upload-artifact@v2
+      #   if: failure()
+      #   with:
+      #     name: videos
+      #     path: tests/e2e/videos/
