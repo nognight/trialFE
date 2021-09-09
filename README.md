@@ -11,7 +11,6 @@
 ## about the backend
 - https://github.com/nognight/trialSC
 
-<<<<<<< HEAD
 ## about scrum
 - https://nognight.atlassian.net/jira/software/projects/GWK/boards/1
 =======
