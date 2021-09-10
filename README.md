@@ -7,14 +7,14 @@
 - typescript
 - tailwind
 
+# demo
+- https://trialfe.netlify.app/
 
 ## about the backend
 - https://github.com/nognight/trialSC
 
-<<<<<<< HEAD
 ## about scrum
 - https://nognight.atlassian.net/jira/software/projects/GWK/boards/1
-=======
 
 ## Project setup
 ```
@@ -39,4 +39,3 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
->>>>>>> aa88566cee61d9460460099cbc6c4c2337e55737
