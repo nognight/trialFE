@@ -7,6 +7,8 @@
 - typescript
 - tailwind
 
+# demo
+- https://trialfe.netlify.app/
 
 ## about the backend
 - https://github.com/nognight/trialSC
