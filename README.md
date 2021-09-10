@@ -15,7 +15,6 @@
 
 ## about scrum
 - https://nognight.atlassian.net/jira/software/projects/GWK/boards/1
-=======
 
 ## Project setup
 ```
