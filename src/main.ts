@@ -5,6 +5,8 @@ import router from './router'
 import { createHead } from '@vueuse/head'
 import { store } from './store'
 import './index.css'
+import "./styleguide.css"
+import "./globals.css"
 
 const head = createHead()
 const app = createApp(App)
