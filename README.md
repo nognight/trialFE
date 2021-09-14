@@ -1,5 +1,4 @@
-# trialFE
-[![Build Status](https://app.travis-ci.com/nognight/trialFE.svg?branch=main)](https://app.travis-ci.com/nognight/trialFE)
+# trialFE [![Build Status](https://app.travis-ci.com/nognight/trialFE.svg?branch=main)](https://app.travis-ci.com/nognight/trialFE)
 - this is the frontend project for trialSC
 
 # the keyword of the project
